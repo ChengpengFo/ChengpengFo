@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChengpengFo
 - 👀 I’m interested in films, old-fashioned books and so on.
-- 🌱 I’m currently learning python, knowing how to print. C, konwing no more than its name. 
+- 🌱 I’m currently learning python, knowing how to print. C, konwing no more than range. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me chengpengfo@protonmail.com
 
